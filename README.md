@@ -21,3 +21,5 @@ PRECOMPUTING ALL POSSIBILITIES/COMBINATIONS BY LAYERS INTO ADDRESSABLE BY IN DAT
 ************************************************************************************************
 IDEA IS TO PRECOMPUTE ONLY MULTIPLICATION AND STORE RESULTS IN DATABASE,FOR ALL POSSIBLE INPUTS
 ************************************************************************************************
+
+NOT TESTED AND NOT FULLY FINISHED
