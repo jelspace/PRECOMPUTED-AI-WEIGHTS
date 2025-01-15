@@ -18,9 +18,10 @@ ULTRA FAST ALL VISION STT TTS MODELS INCLUDE REAL TIME AND UP DIFFUSION VIDEO GA
 
 PRECOMPUTING ALL POSSIBILITIES/COMBINATIONS BY LAYERS INTO ADDRESSABLE BY IN DATA DATABASE ALSO SEEMS POSSIBLE
 
-************************************************************************************************
-IDEA IS TO PRECOMPUTE ONLY MULTIPLICATION(DIV) AND STORE RESULTS IN DATABASE,FOR ALL POSSIBLE INPUTS
-************************************************************************************************
+*********************************************************************************************************************
+IDEA IS TO PRECOMPUTE ONLY MULTIPLICATION(DIV) AND STORE RESULTS IN DATABASE(NEW MODEL FILE),FOR ALL POSSIBLE INPUTS
+(Q4 16 COMBINATIONS)NEW MODEL SIZE WILL BE X 16 OLD ONE.
+*********************************************************************************************************************
 
 SIZE EXPANDING IS Q4 = X 16
 
