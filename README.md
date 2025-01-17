@@ -37,7 +37,7 @@ SPEED BOOST 2X OR MORE ???????
 
 AI ASIC FLASH IS POSSIBLE COMBINING INTERNALY FLASH IC WITH ADD LOGIC THAT WILL COMPUTE FOR 1 CLOCK OR FEW CLOCKS
 ENTIRE MPL NEURAL NET , MEAN ALMOST FLASH COMPUTING OF THE TOKEN FOR ONE CLOCK
-THIS WAY 200 MILLION TOKEN ARE POSSIBLE AT 200MHZ CLOCK
+THIS WAY 200 MILLION TOKENS ARE POSSIBLE AT 200MHZ CLOCK
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
