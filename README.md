@@ -30,4 +30,19 @@ IF MODEL IS 16GB IN SIZE Q4 THEN WITH PRECOMPUTED MULTIPLICATION NEW MODEL FILE 
 
 SPEED BOOST 2X OR MORE ???????
 
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+AI ASIC FLASH IS POSSIBLE COMBINING INTERNALY FLASH IC WITH ADD LOGIC THAT WILL COMPUTE FOR 1 CLOCK OR FEW CLOCKS
+ENTIRE MPL NEURAL NET , MEAN ALMOST FLASH COMPUTING OF THE TOKEN FOR ONE CLOCK
+THIS WAY 200 MILLION TOKEN ARE POSSIBLE AT 200MHZ CLOCK
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+
 IDEA NOT TESTED AND NOT FULLY FINISHED
