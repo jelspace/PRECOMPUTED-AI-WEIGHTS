@@ -47,7 +47,7 @@ THIS WAY 200 MILLION TOKENS PER SECOND ARE POSSIBLE AT 200MHZ CLOCK
 
 *********************************************************************************************************************
 
-SITUATION IS VERY INTERESTING IN Q2 BECAUSE PASSIBILITY TO PRECOMPUTE ALSO AND ADDING ,IN ADDING LEVELS BY 2 ARE FORMED
+SITUATION IS VERY INTERESTING IN Q2 BECAUSE POSSIBILITY TO PRECOMPUTE ALSO AND ADDING ,IN ADDING LEVELS BY 2 ARE FORMED
 
 *********************************************************************************************************************
 !!!!!! INNOVATION IS FABULOUS BECAUSE IS SCALABLE MAY WORK SERIALIZED AND IN PARALLEL IN MANY DEVICES !!!!!!
