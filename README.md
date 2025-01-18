@@ -35,8 +35,7 @@ SIZE EXPANDING IS Q4 = X 16
 
 IF MODEL IS 16GB IN SIZE Q4 THEN WITH PRECOMPUTED MULTIPLICATION NEW MODEL FILE WILL BE 256GB
 
-
-SPEED BOOST 2X OR MORE ???????
+!!!!!!!!!! USE MANY IC DEVICES TO COMPUTE !!!!!!!!!!
 
 *********************************************************************************************************************
 
