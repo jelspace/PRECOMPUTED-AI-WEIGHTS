@@ -27,7 +27,7 @@ SUPPORTS ALL TEXT,VISION,STT,TTS,DIFFUSION VIDEO/AUDIO/3D GANERATION,SIMULATORS 
 *********************************************************************************************************************
 ====================== THIS IS MAIN IDEA ======================
 
-IDEA IS TO PRECOMPUTE ONLY MULTIPLICATION(DIV) AND STORE RESULTS IN DATABASE(NEW MODEL FILE),FOR ALL POSSIBLE INPUTS OF EACH NEURON 
+MAIN IDEA IS TO PRECOMPUTE ONLY MULTIPLICATION(DIV) AND STORE RESULTS IN DATABASE(NEW MODEL FILE),FOR ALL POSSIBLE INPUTS OF EACH NEURON 
 (Q4 16 COMBINATIONS) NEW MODEL FILE SIZE WILL BE X 16 THE DATA IN RESOLUTION.
 *********************************************************************************************************************
 
