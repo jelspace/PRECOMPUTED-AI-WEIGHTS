@@ -49,7 +49,7 @@ SITUATION IS VERY INTERESTING IN Q2(Q3?/Q4?) BECAUSE POSSIBILITY TO PRECOMPUTE A
 !!!!!! INNOVATION IS FABULOUS BECAUSE IS SCALABLE MAY WORK SERIALIZED AND IN PARALLEL IN MANY DEVICES !!!!!!
 
 *********************************************************************************************************************
-
+====================== FABULOUS ======================
 OTHER MAIN ADVANTAGE IS POSSIBILITY TO FINE TUNE THE PRECOMPUTED DATABASE WHICH IS ULTRA FINE TUNING OF THE NEURAL NET NEVER POSSIBLE WITH MULTIPLICATION ALL IN NEURON DATA WITH ONE FIXED WEIGHT VALUE ONLY NEURAL NETS ! 
 WILL UP THE QUALITY OF SMALL NETS TO THE SKY ( NOT TESTED )
 *********************************************************************************************************************
